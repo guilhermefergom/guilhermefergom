@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guilhermefergom
+- 👀 I’m interested in applied and theoretical mechanics
+- 🌱 I’m currently learning how to optimize stuff
+- 💞️ I’m looking to collaborate on engineering vibration, elasticity & plasticity, composite structures, structural health monitoring and applied artificial intelligence
+- 📫 How to reach me: guilherme.unifei.edu.br
